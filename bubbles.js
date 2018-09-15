@@ -40,8 +40,11 @@ function draw() {
             }
             fill(240, 150, 98, 98);
         } else {
+
             fill(175, 199, 50, 29);
             stroke(135, 150, 98, 98);
+            strokeWeight(3)
+
         }
 
         ellipse(bubble.x, bubble.y, bubble.radius*2);
@@ -53,4 +56,3 @@ function draw() {
 </script>
 </body>
 </html>
-
