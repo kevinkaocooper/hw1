@@ -6,3 +6,7 @@ What’s the difference between fill and stroke?
   
 What is the keyboard shortcut to open the JavaScript console in Chrome?
   command + option + J
+  
+In class, we talked about how a CPU runs through instructions linearly performing calculations. Think about whether you have ever performed a task like this in your life. What was it?
+  Following a schedule I create.
+  
